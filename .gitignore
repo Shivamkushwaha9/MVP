@@ -2,3 +2,6 @@ main.py
 test_env
 .env 
 app.py
+test.py
+GazeTracking/gaze_tracking/shape_predictor_68_face_landmarks.dat
+GazeTracking/Landmark/shape_predictor_68_face_landmarks_GTX.dat
